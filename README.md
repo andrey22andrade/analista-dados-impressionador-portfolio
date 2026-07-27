@@ -1,0 +1,50 @@
+# Analista de Dados Impressionador — Portfólio
+
+Repositório de estudos e projetos práticos do curso **Analista de Dados Impressionador**, da Hashtag Treinamentos. O curso é dividido em 4 trilhas (SQL, Excel, Power BI e Python), cada uma organizada por módulos temáticos com exercícios, queries/scripts e boas práticas aplicadas.
+
+Este portfólio documenta, módulo a módulo, os principais conceitos estudados e a aplicação prática de cada um, servindo como registro de aprendizado e evidência técnica para vagas de Analista de Dados Júnior.
+
+## Trilhas do curso
+
+| Trilha | Status |
+|---|---|
+| [SQL Impressionador](./sql-impressionador) | 🟡 Em andamento |
+| Excel Impressionador | 🔲 Não iniciado |
+| Power BI Impressionador | 🔲 Não iniciado |
+| Python Impressionador | 🔲 Não iniciado |
+
+## SQL Impressionador — Módulos
+
+| # | Módulo | Status |
+|---|---|---|
+| 01 | [Introdução ao SQL Server](./sql-impressionador/modulo-01-introducao-ao-sql-server) | ✅ Concluído |
+| 02 | Ordenando e filtrando dados | 🔲 |
+| 03 | Funções de agregação | 🔲 |
+| 04 | Criando agrupamentos | 🔲 |
+| 05 | Joins | 🔲 |
+| 06 | Group By e Joins | 🔲 |
+| 07 | Variáveis | 🔲 |
+| 08 | Manipulando Strings e Datas | 🔲 |
+| 09 | Funções condicionais | 🔲 |
+| 10 | SQL Views | 🔲 |
+| 11 | CRUD | 🔲 |
+| 12 | Subqueries e CTE | 🔲 |
+| 13 | Loops no SQL | 🔲 |
+| 14 | Window Functions | 🔲 |
+| 15 | Regular Expressions | 🔲 |
+| 16 | Constraints | 🔲 |
+| 17 | Sequences | 🔲 |
+| 18 | Transactions | 🔲 |
+| 19 | Functions | 🔲 |
+| 20 | Procedures | 🔲 |
+| 21 | Triggers DML | 🔲 |
+| 22 | Triggers DDL | 🔲 |
+| 23 | Pivot Table | 🔲 |
+| 24 | Integração SQL Server e Excel | 🔲 |
+| 25 | Integração SQL Server e Power BI | 🔲 |
+
+## Sobre
+
+- **Autor:** Andrey de Macedo Andrade
+- **Base de dados utilizada:** ContosoRetailDW (SQL Server)
+- Ver também: [sql-server-expert-portfolio](https://github.com/andrey22andrade/sql-server-expert-portfolio) — portfólio de estudos de administração de SQL Server (DBA)
