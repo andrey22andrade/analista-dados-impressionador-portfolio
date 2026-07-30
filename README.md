@@ -20,7 +20,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 01 | [Introdução ao SQL Server](./sql-impressionador/modulo-01-introducao-ao-sql-server) | ✅ Concluído |
 | 02 | [Ordenando e filtrando dados](./sql-impressionador/modulo-02-ordenando-e-filtrando-dados) | ✅ Concluído |
 | 03 | [Funções de agregação](./sql-impressionador/modulo-03-funcoes-de-agregacao) | ✅ Concluído |
-| 04 | Criando agrupamentos | 🔲 |
+| 04 | [Criando agrupamentos](./sql-impressionador/modulo-04-criando-agrupamentos) | ✅ Concluído |
 | 05 | Joins | 🔲 |
 | 06 | Group By e Joins | 🔲 |
 | 07 | Variáveis | 🔲 |
