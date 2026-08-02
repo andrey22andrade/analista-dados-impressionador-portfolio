@@ -22,7 +22,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 03 | [Funções de agregação](./sql-impressionador/modulo-03-funcoes-de-agregacao) | ✅ Concluído |
 | 04 | [Criando agrupamentos](./sql-impressionador/modulo-04-criando-agrupamentos) | ✅ Concluído |
 | 05 | [Joins](./sql-impressionador/modulo-05-joins) | ✅ Concluído |
-| 06 | Group By e Joins | 🔲 |
+| 06 | [Group By e Joins](./sql-impressionador/modulo-06-group-by-e-joins) | ✅ Concluído |
 | 07 | Variáveis | 🔲 |
 | 08 | Manipulando Strings e Datas | 🔲 |
 | 09 | Funções condicionais | 🔲 |
