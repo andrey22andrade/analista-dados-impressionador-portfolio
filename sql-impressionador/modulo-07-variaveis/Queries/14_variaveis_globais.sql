@@ -1,0 +1,15 @@
+USE ContosoRetailDW
+GO
+
+-- Variáveis Globais
+
+SELECT @@SERVERNAME
+GO
+
+SELECT @@VERSION
+GO
+
+
+SELECT * FROM DimProduct
+SELECT @@ROWCOUNT
+GO
