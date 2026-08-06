@@ -24,7 +24,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 05 | [Joins](./sql-impressionador/modulo-05-joins) | ✅ Concluído |
 | 06 | [Group By e Joins](./sql-impressionador/modulo-06-group-by-e-joins) | ✅ Concluído |
 | 07 | [Variáveis](./sql-impressionador/modulo-07-variaveis) | ✅ Concluído |
-| 08 | Manipulando Strings e Datas | 🔲 |
+| 08 | [Manipulando Strings e Datas](./sql-impressionador/modulo-08-manipulando-strings-e-datas) | ✅ Concluído |
 | 09 | Funções condicionais | 🔲 |
 | 10 | SQL Views | 🔲 |
 | 11 | CRUD | 🔲 |
