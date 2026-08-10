@@ -27,7 +27,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 08 | [Manipulando Strings e Datas](./sql-impressionador/modulo-08-manipulando-strings-e-datas) | ✅ Concluído |
 | 09 | [Funções condicionais](./sql-impressionador/modulo-09-funcoes-condicionais) | ✅ Concluído |
 | 10 | [SQL Views](./sql-impressionador/modulo-10-sql-views) | ✅ Concluído |
-| 11 | CRUD | 🔲 |
+| 11 | [CRUD](./sql-impressionador/modulo-11-crud) | ✅ Concluído |
 | 12 | Subqueries e CTE | 🔲 |
 | 13 | Loops no SQL | 🔲 |
 | 14 | Window Functions | 🔲 |
