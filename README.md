@@ -28,7 +28,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 09 | [Funções condicionais](./sql-impressionador/modulo-09-funcoes-condicionais) | ✅ Concluído |
 | 10 | [SQL Views](./sql-impressionador/modulo-10-sql-views) | ✅ Concluído |
 | 11 | [CRUD](./sql-impressionador/modulo-11-crud) | ✅ Concluído |
-| 12 | Subqueries e CTE | 🔲 |
+| 12 | [Subqueries e CTE](./sql-impressionador/modulo-12-subqueries-e-cte) | ✅ Concluído |
 | 13 | Loops no SQL | 🔲 |
 | 14 | Window Functions | 🔲 |
 | 15 | Regular Expressions | 🔲 |
