@@ -30,7 +30,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 11 | [CRUD](./sql-impressionador/modulo-11-crud) | ✅ Concluído |
 | 12 | [Subqueries e CTE](./sql-impressionador/modulo-12-subqueries-e-cte) | ✅ Concluído |
 | 13 | [Loops no SQL](./sql-impressionador/modulo-13-loops-no-sql) | ✅ Concluído |
-| 14 | Window Functions | 🔲 |
+| 14 | [Window Functions](./sql-impressionador/modulo-14-window-functions) | ✅ Concluído |
 | 15 | Regular Expressions | 🔲 |
 | 16 | Constraints | 🔲 |
 | 17 | Sequences | 🔲 |
