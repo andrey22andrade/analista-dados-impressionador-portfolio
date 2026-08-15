@@ -32,7 +32,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 13 | [Loops no SQL](./sql-impressionador/modulo-13-loops-no-sql) | ✅ Concluído |
 | 14 | [Window Functions](./sql-impressionador/modulo-14-window-functions) | ✅ Concluído |
 | 15 | [Regular Expressions](./sql-impressionador/modulo-15-regular-expressions) | ✅ Concluído |
-| 16 | Constraints | 🔲 |
+| 16 | [Constraints](./sql-impressionador/modulo-16-constraints) | ✅ Concluído |
 | 17 | Sequences | 🔲 |
 | 18 | Transactions | 🔲 |
 | 19 | Functions | 🔲 |
