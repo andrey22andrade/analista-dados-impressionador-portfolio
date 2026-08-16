@@ -33,8 +33,8 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 14 | [Window Functions](./sql-impressionador/modulo-14-window-functions) | ✅ Concluído |
 | 15 | [Regular Expressions](./sql-impressionador/modulo-15-regular-expressions) | ✅ Concluído |
 | 16 | [Constraints](./sql-impressionador/modulo-16-constraints) | ✅ Concluído |
-| 17 | Sequences | 🔲 |
-| 18 | Transactions | 🔲 |
+| 17 | [Sequences](./sql-impressionador/modulo-17-sequences) | ✅ Concluído |
+| 18 | [Transactions](./sql-impressionador/modulo-18-transactions) | ✅ Concluído |
 | 19 | Functions | 🔲 |
 | 20 | Procedures | 🔲 |
 | 21 | Triggers DML | 🔲 |
