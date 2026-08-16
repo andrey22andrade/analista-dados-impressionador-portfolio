@@ -37,9 +37,9 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 18 | [Transactions](./sql-impressionador/modulo-18-transactions) | ✅ Concluído |
 | 19 | [Functions](./sql-impressionador/modulo-19-functions) | ✅ Concluído |
 | 20 | [Procedures](./sql-impressionador/modulo-20-procedures) | ✅ Concluído |
-| 21 | Triggers DML | 🔲 |
-| 22 | Triggers DDL | 🔲 |
-| 23 | Pivot Table | 🔲 |
+| 21 | [Triggers DML](./sql-impressionador/modulo-21-triggers-dml) | ✅ Concluído |
+| 22 | [Triggers DDL](./sql-impressionador/modulo-22-triggers-ddl) | ✅ Concluído |
+| 23 | [Pivot Table](./sql-impressionador/modulo-23-pivot-table) | ✅ Concluído |
 | 24 | Integração SQL Server e Excel | 🔲 |
 | 25 | Integração SQL Server e Power BI | 🔲 |
 
