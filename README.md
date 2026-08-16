@@ -40,7 +40,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 21 | [Triggers DML](./sql-impressionador/modulo-21-triggers-dml) | ✅ Concluído |
 | 22 | [Triggers DDL](./sql-impressionador/modulo-22-triggers-ddl) | ✅ Concluído |
 | 23 | [Pivot Table](./sql-impressionador/modulo-23-pivot-table) | ✅ Concluído |
-| 24 | Integração SQL Server e Excel | 🔲 |
+| 24 | [Integração SQL Server e Excel](./sql-impressionador/modulo-24-integracao-sql-server-e-excel) | ✅ Concluído |
 | 25 | Integração SQL Server e Power BI | 🔲 |
 
 ## Sobre
