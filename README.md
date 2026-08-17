@@ -15,33 +15,34 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 
 ## SQL Impressionador — Módulos
 
-| # | Módulo | Status |
-|---|---|---|
-| 01 | [Introdução ao SQL Server](./sql-impressionador/modulo-01-introducao-ao-sql-server) | ✅ Concluído |
-| 02 | [Ordenando e filtrando dados](./sql-impressionador/modulo-02-ordenando-e-filtrando-dados) | ✅ Concluído |
-| 03 | [Funções de agregação](./sql-impressionador/modulo-03-funcoes-de-agregacao) | ✅ Concluído |
-| 04 | [Criando agrupamentos](./sql-impressionador/modulo-04-criando-agrupamentos) | ✅ Concluído |
-| 05 | [Joins](./sql-impressionador/modulo-05-joins) | ✅ Concluído |
-| 06 | [Group By e Joins](./sql-impressionador/modulo-06-group-by-e-joins) | ✅ Concluído |
-| 07 | [Variáveis](./sql-impressionador/modulo-07-variaveis) | ✅ Concluído |
-| 08 | [Manipulando Strings e Datas](./sql-impressionador/modulo-08-manipulando-strings-e-datas) | ✅ Concluído |
-| 09 | [Funções condicionais](./sql-impressionador/modulo-09-funcoes-condicionais) | ✅ Concluído |
-| 10 | [SQL Views](./sql-impressionador/modulo-10-sql-views) | ✅ Concluído |
-| 11 | [CRUD](./sql-impressionador/modulo-11-crud) | ✅ Concluído |
-| 12 | [Subqueries e CTE](./sql-impressionador/modulo-12-subqueries-e-cte) | ✅ Concluído |
-| 13 | [Loops no SQL](./sql-impressionador/modulo-13-loops-no-sql) | ✅ Concluído |
-| 14 | [Window Functions](./sql-impressionador/modulo-14-window-functions) | ✅ Concluído |
-| 15 | [Regular Expressions](./sql-impressionador/modulo-15-regular-expressions) | ✅ Concluído |
-| 16 | [Constraints](./sql-impressionador/modulo-16-constraints) | ✅ Concluído |
-| 17 | [Sequences](./sql-impressionador/modulo-17-sequences) | ✅ Concluído |
-| 18 | [Transactions](./sql-impressionador/modulo-18-transactions) | ✅ Concluído |
-| 19 | [Functions](./sql-impressionador/modulo-19-functions) | ✅ Concluído |
-| 20 | [Procedures](./sql-impressionador/modulo-20-procedures) | ✅ Concluído |
-| 21 | [Triggers DML](./sql-impressionador/modulo-21-triggers-dml) | ✅ Concluído |
-| 22 | [Triggers DDL](./sql-impressionador/modulo-22-triggers-ddl) | ✅ Concluído |
-| 23 | [Pivot Table](./sql-impressionador/modulo-23-pivot-table) | ✅ Concluído |
-| 24 | [Integração SQL Server e Excel](./sql-impressionador/modulo-24-integracao-sql-server-e-excel) | ✅ Concluído |
-| 25 | [Integração SQL Server e Power BI](./sql-impressionador/modulo-25-integracao-sql-server-e-power-bi) | ✅ Concluído |
+| # | Módulo | Nível | Status |
+|---|---|---|---|
+| 01 | [Introdução ao SQL Server](./sql-impressionador/modulo-01-introducao-ao-sql-server) | Básico | ✅ Concluído |
+| 02 | [Ordenando e filtrando dados](./sql-impressionador/modulo-02-ordenando-e-filtrando-dados) | Básico | ✅ Concluído |
+| 03 | [Funções de agregação](./sql-impressionador/modulo-03-funcoes-de-agregacao) | Básico | ✅ Concluído |
+| 04 | [Criando agrupamentos](./sql-impressionador/modulo-04-criando-agrupamentos) | Básico | ✅ Concluído |
+| 05 | [Joins](./sql-impressionador/modulo-05-joins) | Intermediário | ✅ Concluído |
+| 06 | [Group By e Joins](./sql-impressionador/modulo-06-group-by-e-joins) | Intermediário | ✅ Concluído |
+| 07 | [Variáveis](./sql-impressionador/modulo-07-variaveis) | Intermediário | ✅ Concluído |
+| 08 | [Manipulando Strings e Datas](./sql-impressionador/modulo-08-manipulando-strings-e-datas) | Intermediário | ✅ Concluído |
+| 09 | [Funções condicionais](./sql-impressionador/modulo-09-funcoes-condicionais) | Intermediário | ✅ Concluído |
+| 10 | [SQL Views](./sql-impressionador/modulo-10-sql-views) | Intermediário | ✅ Concluído |
+| 11 | [CRUD](./sql-impressionador/modulo-11-crud) | Básico | ✅ Concluído |
+| 12 | [Subqueries e CTE](./sql-impressionador/modulo-12-subqueries-e-cte) | Avançado | ✅ Concluído |
+| 13 | [Loops no SQL](./sql-impressionador/modulo-13-loops-no-sql) | Intermediário | ✅ Concluído |
+| 14 | [Window Functions](./sql-impressionador/modulo-14-window-functions) | Avançado | ✅ Concluído |
+| 15 | [Regular Expressions](./sql-impressionador/modulo-15-regular-expressions) | Avançado | ✅ Concluído |
+| 16 | [Constraints](./sql-impressionador/modulo-16-constraints) | Intermediário | ✅ Concluído |
+| 17 | [Sequences](./sql-impressionador/modulo-17-sequences) | Intermediário | ✅ Concluído |
+| 18 | [Transactions](./sql-impressionador/modulo-18-transactions) | Avançado | ✅ Concluído |
+| 19 | [Functions](./sql-impressionador/modulo-19-functions) | Avançado | ✅ Concluído |
+| 20 | [Procedures](./sql-impressionador/modulo-20-procedures) | Avançado | ✅ Concluído |
+| 21 | [Triggers DML](./sql-impressionador/modulo-21-triggers-dml) | Avançado | ✅ Concluído |
+| 22 | [Triggers DDL](./sql-impressionador/modulo-22-triggers-ddl) | Avançado | ✅ Concluído |
+| 23 | [Pivot Table](./sql-impressionador/modulo-23-pivot-table) | Avançado | ✅ Concluído |
+| 24 | [Integração SQL Server e Excel](./sql-impressionador/modulo-24-integracao-sql-server-e-excel) | Intermediário | ✅ Concluído |
+| 25 | [Integração SQL Server e Power BI](./sql-impressionador/modulo-25-integracao-sql-server-e-power-bi) | Intermediário | ✅ Concluído |
+| 26 | [Integração SQL Server e Python](./sql-impressionador/modulo-26-integracao-sql-server-e-python) | Avançado | ✅ Concluído |
 
 ## Sobre
 
