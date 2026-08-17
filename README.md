@@ -8,7 +8,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 
 | Trilha | Status |
 |---|---|
-| [SQL Impressionador](./sql-impressionador) | 🟡 Em andamento |
+| [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
 | Excel Impressionador | 🔲 Não iniciado |
 | Power BI Impressionador | 🔲 Não iniciado |
 | Python Impressionador | 🔲 Não iniciado |
@@ -41,7 +41,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 22 | [Triggers DDL](./sql-impressionador/modulo-22-triggers-ddl) | ✅ Concluído |
 | 23 | [Pivot Table](./sql-impressionador/modulo-23-pivot-table) | ✅ Concluído |
 | 24 | [Integração SQL Server e Excel](./sql-impressionador/modulo-24-integracao-sql-server-e-excel) | ✅ Concluído |
-| 25 | Integração SQL Server e Power BI | 🔲 |
+| 25 | [Integração SQL Server e Power BI](./sql-impressionador/modulo-25-integracao-sql-server-e-power-bi) | ✅ Concluído |
 
 ## Sobre
 
