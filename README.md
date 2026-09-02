@@ -9,7 +9,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | Trilha | Status |
 |---|---|
 | [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
-| Excel Impressionador | 🔲 Não iniciado |
+| [Excel Impressionador](./excel-impressionador) | 🔄 Em andamento |
 | Power BI Impressionador | 🔲 Não iniciado |
 | Python Impressionador | 🔲 Não iniciado |
 
@@ -43,6 +43,12 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 24 | [Integração SQL Server e Excel](./sql-impressionador/modulo-24-integracao-sql-server-e-excel) | Intermediário | ✅ Concluído |
 | 25 | [Integração SQL Server e Power BI](./sql-impressionador/modulo-25-integracao-sql-server-e-power-bi) | Intermediário | ✅ Concluído |
 | 26 | [Integração SQL Server e Python](./sql-impressionador/modulo-26-integracao-sql-server-e-python) | Avançado | ✅ Concluído |
+
+## Excel Impressionador — Módulos
+
+| # | Módulo | Nível | Status |
+|---|---|---|---|
+| 01 | [Atalhos](./excel-impressionador/modulo-01-atalhos) | Básico | 🔄 Em andamento |
 
 ## Sobre
 
