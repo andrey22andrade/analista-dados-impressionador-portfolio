@@ -49,6 +49,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | # | Módulo | Nível | Status |
 |---|---|---|---|
 | 01 | [Atalhos](./excel-impressionador/modulo-01-atalhos) | Básico | 🔄 Em andamento |
+| 02 | [Formatação](./excel-impressionador/modulo-02-formatacao) | Básico | 🔄 Em andamento |
 
 ## Sobre
 
