@@ -48,8 +48,15 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 
 | # | Módulo | Nível | Status |
 |---|---|---|---|
-| 01 | [Atalhos](./excel-impressionador/modulo-01-atalhos) | Básico | 🔄 Em andamento |
-| 02 | [Formatação](./excel-impressionador/modulo-02-formatacao) | Básico | 🔄 Em andamento |
+| 01 | [Atalhos](./excel-impressionador/modulo-01-atalhos) | Básico | ✅ Concluído |
+| 02 | [Formatação](./excel-impressionador/modulo-02-formatacao) | Básico | ✅ Concluído |
+| 03 | Funções Básicas | Básico | 🔄 Em andamento |
+| 04 | Classificar e Filtrar | Básico | 🔲 Não iniciado |
+| 05 | Ferramentas de Dados | Intermediário | 🔲 Não iniciado |
+| 06 | Funções Mercado de Trabalho | Intermediário | 🔲 Não iniciado |
+| 07 | Tabela Dinâmica | Intermediário | 🔲 Não iniciado |
+| 08 | Gráficos | Intermediário | 🔲 Não iniciado |
+| 09 | Funções de Texto | Avançado | 🔲 Não iniciado |
 
 ## Sobre
 
