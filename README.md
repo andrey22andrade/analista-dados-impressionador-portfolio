@@ -55,7 +55,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 05 | [Ferramentas de Dados](./excel-impressionador/modulo-05-ferramentas-de-dados) | Intermediário | ✅ Concluído |
 | 06 | [Funções Mercado de Trabalho](./excel-impressionador/modulo-06-funcoes-mercado-de-trabalho) | Avançado | ✅ Concluído |
 | 07 | [Tabela Dinâmica](./excel-impressionador/modulo-07-tabela-dinamica) | Intermediário | ✅ Concluído |
-| 08 | Gráficos | Intermediário | 🔲 Não iniciado |
+| 08 | [Gráficos](./excel-impressionador/modulo-08-graficos) | Intermediário | ✅ Concluído |
 | 09 | Funções de Texto | Avançado | 🔲 Não iniciado |
 
 ## Sobre
