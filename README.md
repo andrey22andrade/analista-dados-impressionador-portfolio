@@ -56,7 +56,10 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 06 | [Funções Mercado de Trabalho](./excel-impressionador/modulo-06-funcoes-mercado-de-trabalho) | Avançado | ✅ Concluído |
 | 07 | [Tabela Dinâmica](./excel-impressionador/modulo-07-tabela-dinamica) | Intermediário | ✅ Concluído |
 | 08 | [Gráficos](./excel-impressionador/modulo-08-graficos) | Intermediário | ✅ Concluído |
-| 09 | Funções de Texto | Avançado | 🔲 Não iniciado |
+| 09 | [Funções de Texto](./excel-impressionador/modulo-09-funcoes-de-texto) | Intermediário | ✅ Concluído |
+| 10 | Funções de Data | Intermediário | 🔲 Não iniciado |
+| 11 | Previsão e Solver | Avançado | 🔲 Não iniciado |
+| 12 | Dashboards Impressionadores | Avançado | 🔲 Não iniciado |
 
 ## Sobre
 
