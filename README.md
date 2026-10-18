@@ -58,7 +58,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 08 | [Gráficos](./excel-impressionador/modulo-08-graficos) | Intermediário | ✅ Concluído |
 | 09 | [Funções de Texto](./excel-impressionador/modulo-09-funcoes-de-texto) | Intermediário | ✅ Concluído |
 | 10 | [Funções de Data](./excel-impressionador/modulo-10-funcoes-de-data) | Intermediário | ✅ Concluído |
-| 11 | Previsão e Solver | Avançado | 🔲 Não iniciado |
+| 11 | [Previsão e Solver](./excel-impressionador/modulo-11-previsao-e-solver) | Avançado | ✅ Concluído |
 | 12 | Dashboards Impressionadores | Avançado | 🔲 Não iniciado |
 
 ## Sobre
