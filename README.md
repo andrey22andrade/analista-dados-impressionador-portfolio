@@ -9,7 +9,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | Trilha | Status |
 |---|---|
 | [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
-| [Excel Impressionador](./excel-impressionador) | 🔄 Em andamento |
+| [Excel Impressionador](./excel-impressionador) | ✅ Concluído |
 | Power BI Impressionador | 🔲 Não iniciado |
 | Python Impressionador | 🔲 Não iniciado |
 
@@ -59,7 +59,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 09 | [Funções de Texto](./excel-impressionador/modulo-09-funcoes-de-texto) | Intermediário | ✅ Concluído |
 | 10 | [Funções de Data](./excel-impressionador/modulo-10-funcoes-de-data) | Intermediário | ✅ Concluído |
 | 11 | [Previsão e Solver](./excel-impressionador/modulo-11-previsao-e-solver) | Avançado | ✅ Concluído |
-| 12 | Dashboards Impressionadores | Avançado | 🔲 Não iniciado |
+| 12 | [Dashboards Impressionadores](./excel-impressionador/modulo-12-dashboards-impressionadores) | Avançado | ✅ Concluído |
 
 ## Sobre
 
