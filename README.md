@@ -10,7 +10,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 |---|---|
 | [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
 | [Excel Impressionador](./excel-impressionador) | ✅ Concluído |
-| Power BI Impressionador | 🔲 Não iniciado |
+| [Power BI Impressionador](./power-bi-impressionador) | 🔄 Em andamento |
 | Python Impressionador | 🔲 Não iniciado |
 
 ## SQL Impressionador — Módulos
@@ -60,6 +60,20 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 10 | [Funções de Data](./excel-impressionador/modulo-10-funcoes-de-data) | Intermediário | ✅ Concluído |
 | 11 | [Previsão e Solver](./excel-impressionador/modulo-11-previsao-e-solver) | Avançado | ✅ Concluído |
 | 12 | [Dashboards Impressionadores](./excel-impressionador/modulo-12-dashboards-impressionadores) | Avançado | ✅ Concluído |
+
+## Power BI Impressionador — Módulos
+
+| # | Módulo | Nível | Status |
+|---|---|---|---|
+| 01 | [Importação e Tratamento de Bases de Dados com Power Query](./power-bi-impressionador/modulo-01-importacao-e-tratamento-com-power-query) | Intermediário | ✅ Concluído |
+| 02 | Relacionamentos | Intermediário | 🔲 Não iniciado |
+| 03 | Funções DAX | Avançado | 🔲 Não iniciado |
+| 04 | Storytelling | Básico | 🔲 Não iniciado |
+| 05 | Dashboard & Visualização de Dados | Intermediário | 🔲 Não iniciado |
+| 06 | Criando Layout de Dashboards no PowerPoint | Básico | 🔲 Não iniciado |
+| 07 | Power BI Online | Intermediário | 🔲 Não iniciado |
+| 08 | Exercícios de Revisão | Intermediário | 🔲 Não iniciado |
+| 09 | Conectando o Power BI com Bancos de Dados SQL e Introdução à linguagem SQL | Avançado | 🔲 Não iniciado |
 
 ## Sobre
 
