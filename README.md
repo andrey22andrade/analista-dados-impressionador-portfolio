@@ -66,7 +66,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | # | Módulo | Nível | Status |
 |---|---|---|---|
 | 01 | [Importação e Tratamento de Bases de Dados com Power Query](./power-bi-impressionador/modulo-01-importacao-e-tratamento-com-power-query) | Intermediário | ✅ Concluído |
-| 02 | Relacionamentos | Intermediário | 🔲 Não iniciado |
+| 02 | [Relacionamentos](./power-bi-impressionador/modulo-02-relacionamentos) | Intermediário | ✅ Concluído |
 | 03 | Funções DAX | Avançado | 🔲 Não iniciado |
 | 04 | Storytelling | Básico | 🔲 Não iniciado |
 | 05 | Dashboard & Visualização de Dados | Intermediário | 🔲 Não iniciado |
