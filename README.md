@@ -69,7 +69,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 02 | [Relacionamentos](./power-bi-impressionador/modulo-02-relacionamentos) | Intermediário | ✅ Concluído |
 | 03 | [Funções DAX](./power-bi-impressionador/modulo-03-funcoes-dax) | Avançado | ✅ Concluído |
 | 04 | [Storytelling](./power-bi-impressionador/modulo-04-storytelling) | Básico | ✅ Concluído |
-| 05 | Dashboard & Visualização de Dados | Intermediário | 🔲 Não iniciado |
+| 05 | [Dashboard & Visualização de Dados](./power-bi-impressionador/modulo-05-dashboard-e-visualizacao-de-dados) | Intermediário | ✅ Concluído |
 | 06 | Criando Layout de Dashboards no PowerPoint | Básico | 🔲 Não iniciado |
 | 07 | Power BI Online | Intermediário | 🔲 Não iniciado |
 | 08 | Exercícios de Revisão | Intermediário | 🔲 Não iniciado |
