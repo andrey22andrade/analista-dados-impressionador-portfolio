@@ -99,7 +99,7 @@ Painel explicativo e painel de filtro retrátil, capa do dashboard e hiperlinks 
    - `Capa`: botão de entrada para o dashboard
    - `Geral`: cartões, segmentação, gráfico de colunas, rosca, barras, matriz e botões de navegação
    - `Análises`: árvore de hierarquia, visuais Enlighten Data Story, scroller e segmentações
-   - `Devoluções`: cartões, gráfico de área, mapa, gráfico de colunas, segmentação e um visual personalizado
+   - `Devoluções`: cartões, gráfico de área, mapa, gráfico de colunas, segmentação por ano e o Play Axis, visual personalizado com controles de reprodução para percorrer as categorias
    - `Tooltip Devoluções` e `Tooltip Vendas`: páginas de dica de ferramenta, a segunda com imagem do produto
 
 ![Página Geral do dashboard](./Imagens/dashboard-geral.png)
