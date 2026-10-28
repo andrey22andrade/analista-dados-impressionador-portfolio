@@ -71,7 +71,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 04 | [Storytelling](./power-bi-impressionador/modulo-04-storytelling) | Básico | ✅ Concluído |
 | 05 | [Dashboard & Visualização de Dados](./power-bi-impressionador/modulo-05-dashboard-e-visualizacao-de-dados) | Intermediário | ✅ Concluído |
 | 06 | [Criando Layout de Dashboards no PowerPoint](./power-bi-impressionador/modulo-06-layout-de-dashboards-no-powerpoint) | Básico | ✅ Concluído |
-| 07 | Power BI Online | Intermediário | 🔲 Não iniciado |
+| 07 | [Power BI Online](./power-bi-impressionador/modulo-07-power-bi-online) | Intermediário | ✅ Concluído |
 | 08 | Exercícios de Revisão | Intermediário | 🔲 Não iniciado |
 | 09 | Conectando o Power BI com Bancos de Dados SQL e Introdução à linguagem SQL | Avançado | 🔲 Não iniciado |
 
