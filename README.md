@@ -10,7 +10,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 |---|---|
 | [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
 | [Excel Impressionador](./excel-impressionador) | ✅ Concluído |
-| [Power BI Impressionador](./power-bi-impressionador) | 🔄 Em andamento |
+| [Power BI Impressionador](./power-bi-impressionador) | ✅ Concluído |
 | Python Impressionador | 🔲 Não iniciado |
 
 ## SQL Impressionador — Módulos
@@ -73,7 +73,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 06 | [Criando Layout de Dashboards no PowerPoint](./power-bi-impressionador/modulo-06-layout-de-dashboards-no-powerpoint) | Básico | ✅ Concluído |
 | 07 | [Power BI Online](./power-bi-impressionador/modulo-07-power-bi-online) | Intermediário | ✅ Concluído |
 | 08 | [Exercícios de Revisão](./power-bi-impressionador/modulo-08-exercicios-de-revisao) | Intermediário | ✅ Concluído |
-| 09 | Conectando o Power BI com Bancos de Dados SQL e Introdução à linguagem SQL | Avançado | 🔲 Não iniciado |
+| 09 | [Conectando o Power BI com Bancos de Dados SQL e Introdução à linguagem SQL](./power-bi-impressionador/modulo-09-conexao-com-bancos-sql-e-introducao-ao-sql) | Avançado | ✅ Concluído |
 
 ## Sobre
 
