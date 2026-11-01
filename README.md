@@ -75,6 +75,31 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 08 | [Exercícios de Revisão](./power-bi-impressionador/modulo-08-exercicios-de-revisao) | Intermediário | ✅ Concluído |
 | 09 | [Conectando o Power BI com Bancos de Dados SQL e Introdução à linguagem SQL](./power-bi-impressionador/modulo-09-conexao-com-bancos-sql-e-introducao-ao-sql) | Avançado | ✅ Concluído |
 
+## Python Impressionador — Módulos
+
+| # | Módulo | Nível | Status |
+|---|---|---|---|
+| 01 | Mais sobre Variáveis | Básico | 🔲 Não iniciado |
+| 02 | If - Condições em Python | Básico | 🔲 Não iniciado |
+| 03 | Strings - Textos e a importância no Python | Básico | 🔲 Não iniciado |
+| 04 | Listas Python - Métodos e Usos | Básico | 🔲 Não iniciado |
+| 05 | For - Estrutura de Repetição | Básico | 🔲 Não iniciado |
+| 06 | While e Criando um Loop infinito | Básico | 🔲 Não iniciado |
+| 07 | Tuplas - Uma "lista" muito útil e imutável | Básico | 🔲 Não iniciado |
+| 08 | Dicionários em Python | Intermediário | 🔲 Não iniciado |
+| 09 | Iterables | Intermediário | 🔲 Não iniciado |
+| 10 | Criando suas funções em Python | Intermediário | 🔲 Não iniciado |
+| 11 | Módulos, Bibliotecas e Introdução à Orientação a Objeto | Intermediário | 🔲 Não iniciado |
+| 12 | Exercícios e O que falta aprender agora? | Intermediário | 🔲 Não iniciado |
+| 13 | List Comprehension | Intermediário | 🔲 Não iniciado |
+| 14 | Functions usadas como parâmetro e Expressões Lambda | Avançado | 🔲 Não iniciado |
+| 15 | (Opcional) Numpy - a base de Python para Análise de Dados | Intermediário | 🔲 Não iniciado |
+| 16 | Análise de Dados com o Pandas + Integração Python e Excel | Intermediário | 🔲 Não iniciado |
+| 17 | (Opcional) Gráficos no Python - Matplotlib e Seaborn | Intermediário | 🔲 Não iniciado |
+| 18 | Integração Python - Automação Web (Web-Scraping com Selenium) | Avançado | 🔲 Não iniciado |
+| 19 | Regex - Expressões Regulares | Avançado | 🔲 Não iniciado |
+| 20 | Integração Python com APIs e JSON | Avançado | 🔲 Não iniciado |
+
 ## Sobre
 
 - **Autor:** Andrey de Macedo Andrade
