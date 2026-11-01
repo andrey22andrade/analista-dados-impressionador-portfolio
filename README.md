@@ -11,7 +11,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | [SQL Impressionador](./sql-impressionador) | ✅ Concluído |
 | [Excel Impressionador](./excel-impressionador) | ✅ Concluído |
 | [Power BI Impressionador](./power-bi-impressionador) | ✅ Concluído |
-| Python Impressionador | 🔲 Não iniciado |
+| [Python Impressionador](./python-impressionador) | 🔄 Em andamento |
 
 ## SQL Impressionador — Módulos
 
@@ -79,7 +79,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 
 | # | Módulo | Nível | Status |
 |---|---|---|---|
-| 01 | Mais sobre Variáveis | Básico | 🔲 Não iniciado |
+| 01 | [Mais sobre Variáveis](./python-impressionador/modulo-01-mais-sobre-variaveis) | Básico | ✅ Concluído |
 | 02 | If - Condições em Python | Básico | 🔲 Não iniciado |
 | 03 | Strings - Textos e a importância no Python | Básico | 🔲 Não iniciado |
 | 04 | Listas Python - Métodos e Usos | Básico | 🔲 Não iniciado |
