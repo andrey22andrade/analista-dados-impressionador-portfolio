@@ -80,7 +80,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | # | Módulo | Nível | Status |
 |---|---|---|---|
 | 01 | [Mais sobre Variáveis](./python-impressionador/modulo-01-mais-sobre-variaveis) | Básico | ✅ Concluído |
-| 02 | If - Condições em Python | Básico | 🔲 Não iniciado |
+| 02 | [If - Condições em Python](./python-impressionador/modulo-02-if-condicoes-em-python) | Básico | ✅ Concluído |
 | 03 | Strings - Textos e a importância no Python | Básico | 🔲 Não iniciado |
 | 04 | Listas Python - Métodos e Usos | Básico | 🔲 Não iniciado |
 | 05 | For - Estrutura de Repetição | Básico | 🔲 Não iniciado |
