@@ -84,7 +84,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 03 | [Strings - Textos e a importância no Python](./python-impressionador/modulo-03-strings-textos-e-a-importancia-no-python) | Básico | ✅ Concluído |
 | 04 | [Listas Python - Métodos e Usos](./python-impressionador/modulo-04-listas-python-metodos-e-usos) | Básico | ✅ Concluído |
 | 05 | [For - Estrutura de Repetição](./python-impressionador/modulo-05-for-estrutura-de-repeticao) | Básico | ✅ Concluído |
-| 06 | While e Criando um Loop infinito | Básico | 🔲 Não iniciado |
+| 06 | [While e Criando um Loop infinito](./python-impressionador/modulo-06-while-e-criando-um-loop-infinito) | Básico | ✅ Concluído |
 | 07 | Tuplas - Uma "lista" muito útil e imutável | Básico | 🔲 Não iniciado |
 | 08 | Dicionários em Python | Intermediário | 🔲 Não iniciado |
 | 09 | Iterables | Intermediário | 🔲 Não iniciado |
