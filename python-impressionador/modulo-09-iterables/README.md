@@ -55,7 +55,7 @@ Cartilha com 6 métodos: `add`, `remove`, `clear`, `union`, `intersection` e `di
 
 1. **O que é um iterable (`01_o_que_e_um_iterable.ipynb`)** — `for` percorrendo uma lista, um texto, uma tupla e um dicionário, com saídas.
 2. **Range (`02_range.ipynb`)** — `range` com um valor, com início e fim e com passo, e o exemplo de funcionários por posição, com saídas.
-3. **Set (`03_set.ipynb`)** — criação de um `set` e contagem de clientes únicos a partir de uma lista de CPFs com repetições, com saídas. Os CPFs de exemplo estão mascarados, mostrando só os dois últimos dígitos.
+3. **Set (`03_set.ipynb`)** — criação de um `set` e contagem de clientes únicos a partir de uma lista de CPFs com repetições, com saídas.
 4. **Cartilha de métodos de set (`04_cartilha_de_metodos_de_set.ipynb`)** — uso de cada um dos 6 métodos, com saídas.
 
 > A ordem dos itens de um `set` pode mudar entre execuções, como explicado na aula. Os dados e valores dos exemplos são fictícios.
