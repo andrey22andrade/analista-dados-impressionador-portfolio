@@ -90,7 +90,7 @@ Este portfólio documenta, módulo a módulo, os principais conceitos estudados 
 | 09 | [Iterables](./python-impressionador/modulo-09-iterables) | Intermediário | ✅ Concluído |
 | 10 | [Criando suas funções em Python](./python-impressionador/modulo-10-criando-suas-funcoes-em-python) | Intermediário | ✅ Concluído |
 | 11 | [Módulos, Bibliotecas e Introdução à Orientação a Objeto](./python-impressionador/modulo-11-modulos-bibliotecas-e-introducao-a-orientacao-a-objeto) | Intermediário | ✅ Concluído |
-| 12 | Exercícios e O que falta aprender agora? | Intermediário | 🔲 Não iniciado |
+| 12 | [Exercícios e O que falta aprender agora?](./python-impressionador/modulo-12-exercicios-e-o-que-falta-aprender-agora) | Intermediário | ✅ Concluído |
 | 13 | List Comprehension | Intermediário | 🔲 Não iniciado |
 | 14 | Functions usadas como parâmetro e Expressões Lambda | Avançado | 🔲 Não iniciado |
 | 15 | (Opcional) Numpy - a base de Python para Análise de Dados | Intermediário | 🔲 Não iniciado |
